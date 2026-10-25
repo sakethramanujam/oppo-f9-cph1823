@@ -1,9 +1,13 @@
 backups/
+stock-firmware/
 *.bin
 *.img
 *.zip
-!website/**
-.env
 *.apk
-stock-firmware/
+.env
+website/node_modules/
+website/build/
+website/.docusaurus/
+website/.cache/
+!website/**
 .worktrees/
