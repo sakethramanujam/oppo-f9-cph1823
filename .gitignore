@@ -1,0 +1,8 @@
+backups/
+*.bin
+*.img
+*.zip
+!website/**
+.env
+*.apk
+stock-firmware/
