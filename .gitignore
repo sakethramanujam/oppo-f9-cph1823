@@ -11,3 +11,4 @@ website/build/
 website/.docusaurus/
 website/.cache/
 .worktrees/
+.venv/
