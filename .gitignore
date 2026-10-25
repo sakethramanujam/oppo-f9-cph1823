@@ -5,9 +5,9 @@ stock-firmware/
 *.zip
 *.apk
 .env
+!website/**
 website/node_modules/
 website/build/
 website/.docusaurus/
 website/.cache/
-!website/**
 .worktrees/
